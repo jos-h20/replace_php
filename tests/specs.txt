@@ -1,0 +1,11 @@
+input: rock and rock
+we expect rock and rock to be pushed into arrays
+
+input: rock, rock, and stone
+we expect first input to be replaced with stone
+
+input: rock, rock, and stone
+we expect the count to be one
+
+input: pebble rock, rock, and stone
+we expect first input to be replaced with stone
